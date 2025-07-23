@@ -13,6 +13,7 @@ header{
     background-color: rgb(4, 54, 6);
     text-align: center;
     height: 100px;
+    align-items: top;
 }
 nav {
     background-color: rgb(1, 88, 1);
@@ -41,6 +42,7 @@ nav ul li a {
     width: 1000px;
     height: 500px;
     padding: 20px;
+    align-items: center;
     background-color: #ffffff;
     box-shadow: 1px 3px 5px 0px rgba(0,0,0,0.44);
     margin: 100px auto 130px; 
@@ -57,7 +59,7 @@ footer {
     color: white;
     text-align: center;
     padding: 10px ;
-    position: relative;
     bottom: 0;
     width: 100%;
+    position: relative;
 }
